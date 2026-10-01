@@ -106,7 +106,7 @@
 ### Г1. Каркас игрового сервиса
 **Репозиторий:** `game-service` · **Зависит от:** А1
 
-Spring Boot 3 (актуальная версия с поддержкой Java 25), зависимости: Web, WebSocket, Actuator, Data Redis, Security, Validation. Настройки через `application.yml` с профилями `local` и `prod`. Эндпоинт `/actuator/health`.
+Spring Boot 4 (см. [ADR 0009](adr/0009-spring-boot-4.md)), зависимости: Web, WebSocket, Actuator, Data Redis, Security, Validation. Настройки через `application.yml` с профилями `local` и `prod`. Эндпоинт `/actuator/health`.
 
 **Готово, когда:** сервис запускается локально и подключается к Redis из И2, `/actuator/health` отвечает `UP`.
 

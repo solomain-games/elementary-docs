@@ -196,7 +196,7 @@
 
 ## 12. Технологический стек
 
-- Бэкенд: Java 25, Spring Boot, Maven, Spring Cloud Gateway.
+- Бэкенд: Java 25, Spring Boot 4, Maven, Spring Cloud Gateway.
 - Данные: PostgreSQL, Hibernate / Spring Data JPA, Redis, Yandex Object Storage (медиафайлы).
 - Обмен сообщениями: RabbitMQ (Kafka — возможно позже, при масштабировании).
 - Фронтенд: React + TypeScript, Ant Design.
