@@ -14,3 +14,4 @@ Architecture Decision Record — короткая запись об одном �
 | [0006](0006-case-as-file-in-mvp.md) | Дело в MVP — файл в репозитории | принято |
 | [0007](0007-single-vm-docker-compose.md) | Одна виртуальная машина с Docker Compose и Caddy | принято |
 | [0008](0008-multirepo-with-prefix.md) | Отдельный репозиторий на сервис, префикс проекта | принято |
+| [0009](0009-spring-boot-4.md) | Spring Boot 4 | принято |
