@@ -6,5 +6,6 @@
 |---|---|
 | [TZ.md](TZ.md) | техническое задание |
 | [PLAN.md](PLAN.md) | план работ по этапам и задачам |
+| [protocol.md](protocol.md) | протокол между браузером и бэкендом: REST и WebSocket |
 | [CONTRIBUTING.md](CONTRIBUTING.md) | правила работы с репозиториями: ветки, коммиты, PR |
 | [adr/](adr/README.md) | архитектурные решения (ADR) |
